@@ -4,5 +4,5 @@ main:
     url: /categories/
   - title: "연도"
     url: /posts/
-  - title: "소게"
+  - title: "소개"
     url: /about/
