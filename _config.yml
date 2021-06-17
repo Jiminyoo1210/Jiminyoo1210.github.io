@@ -39,7 +39,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "gold"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "유지민"
   avatar           : "assets/images/20210402_091828 (1).jpg"
-  bio              : "WHO "
+  bio              : "WHO  "
   location         : "Seoul, South Korea"
   email            : "jiminyoo1210@gmail.com"
   links:
