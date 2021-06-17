@@ -25,7 +25,7 @@ url                      : "Jiminyoo1210.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jiminyoo1210/Jiminyoo1210.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/REAL.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "유지민"
-  avatar           : "Jiminyoo1210.github.io/assets/apeach.jpg"
+  avatar           : "assets/images/20210402_091828 (1).jpg"
   bio              : "WHO "
   location         : "Seoul, South Korea"
   email            : "jiminyoo1210@gmail.com"
