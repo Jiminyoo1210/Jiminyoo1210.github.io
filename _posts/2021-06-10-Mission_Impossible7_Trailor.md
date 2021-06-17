@@ -4,7 +4,7 @@ title: "내가 좋아하는 영화들🎥"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
-categories: About me
+categories: About_me
 last_modified_at: 2021-06-17 T08:06:00-05:00
 --- 
 
